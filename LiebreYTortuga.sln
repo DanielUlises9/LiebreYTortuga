@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiebreYTortuga", "LiebreYTortuga\LiebreYTortuga.csproj", "{1F3E5C75-C010-4F5F-821C-6A701774341A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F3E5C75-C010-4F5F-821C-6A701774341A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3E5C75-C010-4F5F-821C-6A701774341A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3E5C75-C010-4F5F-821C-6A701774341A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3E5C75-C010-4F5F-821C-6A701774341A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30074EC2-14B5-45E9-800D-95145740D89F}
+	EndGlobalSection
+EndGlobal
